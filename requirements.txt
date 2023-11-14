@@ -1,0 +1,4 @@
+torch==2.0.1
+sentencepiece==0.1.99 # for tokenizer
+parlai==1.7.2 # to download wizard of wikipedia
+wandb==0.15.8 # only if wandb is needed
